@@ -1,6 +1,7 @@
 streamlit
+face_recognition_models
 dlib-bin
-face-recognition
+face-recognition --no-deps
 opencv-python-headless
 pandas
 matplotlib
