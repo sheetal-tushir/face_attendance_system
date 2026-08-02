@@ -1,5 +1,5 @@
 streamlit
-https://files.pythonhosted.org/packages/05/57/460c8ad2d01132ea0715cc20d1ee700a4023243160a2d21655e714ddfe68/dlib_bin-19.24.6-cp310-cp310-manylinux_2_28_x86_64.whl
+dlib-bin
 face-recognition
 opencv-python-headless
 pandas
